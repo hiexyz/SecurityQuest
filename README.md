@@ -1,6 +1,5 @@
 # SecurityQuest
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/hiexyz/SecurityQuest)
 中高年向けのセキュリティ学習Webアプリを作成したいです。クエスト形式で楽しみながら基本的なセキュリティ設定やパスワード管理を学べるアプリにしてください。
 
 ## アプリの概要
@@ -90,3 +89,8 @@
 - 定期的にコンテンツを更新できる仕組みを組み込む
 
 このアプリを通じて、中高年ユーザーがセキュリティの基本を楽しく学び、日常のデジタルライフをより安全に過ごせるようサポートすることを目指します。
+
+
+[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/hiexyz/SecurityQuest)
+
+
